@@ -1,10 +1,15 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import { Button, Typography } from "@mui/material";
 
 export default function Home() {
   return (
     <div className={styles.page}>
       NATIONAL PARK PASSPORT
+      <Button>
+        Search here
+      </Button>
+      <Typography>hello how are you</Typography>
       <main className={styles.main}>
         <Image
           className={styles.logo}
