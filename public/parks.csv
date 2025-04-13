@@ -1,0 +1,64 @@
+﻿name,websiteLink,location,dateCreated,area,numVisitors
+Acadia,https://www.nps.gov/acad/index.htm,Maine,2/26/19,"49,071.40",3961661
+American Samoa,https://www.nps.gov/npsa/index.htm,American Samoa,10/31/88,"8,256.67",22567
+Arches,https://www.nps.gov/arch/index.htm,Utah,11/12/71,"76,678.98",1466528
+Badlands,https://www.nps.gov/badl/index.htm,South Dakota,11/10/78,"242,755.94",1094245
+Big Bend,https://www.nps.gov/bibe/index.htm,Texas,6/12/44,"801,163.21",561458
+Biscayne,https://www.nps.gov/bisc/index.htm,Florida,6/28/80,"172,971.11",512213
+Black Canyon of the Gunnison,https://www.nps.gov/blca/index.htm,Colorado,10/21/99,"30,779.83",335862
+Bryce Canyon,https://www.nps.gov/brca/index.htm,Utah,2/25/28,"35,835.08",2498075
+Canyonlands,https://www.nps.gov/cany/index.htm,Utah,9/12/64,"337,597.83",818492
+Capitol Reef,https://www.nps.gov/care/index.htm,Utah,12/18/71,"241,904.50",1422490
+Carlsbad Caverns,https://www.nps.gov/cave/index.htm,New Mexico,5/14/30,"46,766.45",460474
+Channel Islands,https://www.nps.gov/chis/index.htm,California,3/5/80,"249,561.00",262581
+Congaree,https://www.nps.gov/cong/index.htm,South Carolina,11/10/03,"26,692.60",242049
+Crater Lake,https://www.nps.gov/crla/index.htm,Oregon,5/22/02,"183,224.05",504942
+Cuyahoga Valley,https://www.nps.gov/cuva/index.htm,Ohio,10/11/00,"32,571.89",2912454
+Death Valley,https://www.nps.gov/deva/index.htm,"California, Nevada",10/31/94,"3,408,395.63",1440484
+Denali,https://www.nps.gov/dena/index.htm,Alaska,2/26/17,"4,740,911.16",466227
+Dry Tortugas,https://www.nps.gov/drto/index.htm,Florida,10/26/92,"64,701.22",84873
+Everglades,https://www.nps.gov/ever/index.htm,Florida,5/30/34,"1,508,938.57",741983
+Gates of the Arctic,https://www.nps.gov/gaar/index.htm,Alaska,12/2/80,"7,523,897.45",11907
+Gateway Arch,https://www.nps.gov/jeff/index.htm,Missouri,2/22/18,192.83,2563052
+Glacier,https://www.nps.gov/glac/index.htm,Montana,5/11/10,"1,013,126.39",3208755
+Glacier Bay,https://www.nps.gov/glba/index.htm,Alaska,12/2/80,"3,223,383.43",736282
+Grand Canyon,https://www.nps.gov/grca/index.htm,Arizona,2/26/19,"1,201,647.03",4919163
+Grand Teton,https://www.nps.gov/grte/index.htm,Wyoming,2/26/29,"310,044.36",3628222
+Great Basin,https://www.nps.gov/grba/index.htm,Nevada,10/27/86,"77,180.00",152068
+Great Sand Dunes,https://www.nps.gov/grsa/index.htm,Colorado,9/24/04,"107,345.73",437661
+Great Smoky Mountains,https://www.nps.gov/grsm/index.htm,"North Carolina, Tennessee",6/15/34,"522,426.88",12191834
+Guadalupe Mountains,https://www.nps.gov/gumo/index.htm,Texas,9/30/72,"86,367.10",226134
+Haleakalā,https://www.nps.gov/hale/index.htm,Hawaii,7/1/61,"33,488.98",732477
+Hawaiʻi Volcanoes,https://www.nps.gov/havo/index.htm,Hawaii,8/1/16,"344,812.18",1433593
+Hot Springs,https://www.nps.gov/hosp/index.htm,Arkansas,3/4/21,"5,554.15",2461812
+Indiana Dunes,https://www.nps.gov/indu/index.htm,Indiana,2/15/19,"15,349.08",2705209
+Isle Royale,https://www.nps.gov/isro/index.htm,Michigan,4/3/40,"571,790.30",28806
+Joshua Tree,https://www.nps.gov/jotr/index.htm,California,10/31/94,"795,155.85",2991874
+Katmai,https://www.nps.gov/katm/index.htm,Alaska,12/2/80,"3,674,529.33",36230
+Kenai Fjords,https://www.nps.gov/kefj/index.htm,Alaska,12/2/80,"669,650.05",419468
+Kings Canyon,https://www.nps.gov/seki/index.htm,California,3/4/40,"461,901.20",699389
+Kobuk Valley,https://www.nps.gov/kova/index.htm,Alaska,12/2/80,"1,750,716.16",17233
+Lake Clark,https://www.nps.gov/lacl/index.htm,Alaska,12/2/80,"2,619,816.49",18505
+Lassen Volcanic,https://www.nps.gov/lavo/index.htm,California,8/9/16,"106,589.02",357651
+Mammoth Cave,https://www.nps.gov/maca/index.htm,Kentucky,7/1/41,"72,472.87",747042
+Mesa Verde,https://www.nps.gov/meve/index.htm,Colorado,6/29/06,"52,485.17",480065
+Mount Rainier,https://www.nps.gov/mora/index.htm,Washington,3/2/1899,"236,381.64",1620006
+New River Gorge,https://www.nps.gov/neri/index.htm,West Virginia,12/27/20,"7,021.00",1811937
+North Cascades,https://www.nps.gov/noca/index.htm,Washington,10/2/68,"504,780.94",16485
+Olympic,https://www.nps.gov/olym/index.htm,Washington,6/29/38,"922,649.41",3717267
+Petrified Forest,https://www.nps.gov/pefo/index.htm,Arizona,12/9/62,"221,390.21",559254
+Pinnacles,https://www.nps.gov/pinn/index.htm,California,1/10/13,"26,685.73",354076
+Redwood,https://www.nps.gov/redw/index.htm,California,10/2/68,"138,999.37",622883
+Rocky Mountain,https://www.nps.gov/romo/index.htm,Colorado,1/26/15,"265,847.74",4154349
+Saguaro,https://www.nps.gov/sagu/index.htm,Arizona,10/14/94,"92,876.75",946369
+Sequoia,https://www.nps.gov/seki/index.htm,California,9/25/1890,"404,062.63",1309573
+Shenandoah,https://www.nps.gov/shen/index.htm,Virginia,12/26/35,"200,445.92",1720211
+Theodore Roosevelt,https://www.nps.gov/thro/index.htm,North Dakota,11/10/78,"70,446.89",732951
+Virgin Islands,https://www.nps.gov/viis/index.htm,U.S. Virgin Islands,8/2/56,"15,052.33",423029
+Voyageurs,https://www.nps.gov/voya/index.htm,Minnesota,4/8/75,"218,222.35",199030
+White Sands,https://www.nps.gov/whsa/index.htm,New Mexico,12/20/19,"146,344.31",702236
+Wind Cave,https://www.nps.gov/wica/index.htm,South Dakota,1/9/03,"33,970.84",489399
+Wrangell–St. Elias,https://www.nps.gov/wrst/index.htm,Alaska,12/2/80,"8,323,146.48",81670
+Yellowstone,https://www.nps.gov/yell/index.htm,"Wyoming, Montana, Idaho",3/1/1872,"2,219,790.71",4744353
+Yosemite,https://www.nps.gov/yose/index.htm,California,10/1/1890,"761,747.50",4121807
+Zion,https://www.nps.gov/zion/index.htm,Utah,11/19/19,"147,242.66",4946592
