@@ -16,12 +16,12 @@ interface Park {
 }
 
 export default function Home() {
-  const [parks, setParks] = useState<Park[] | unknown[]>([])
+  const [parks, setParks] = useState<Park[]>([])
   useEffect(() => {
     fetch('national-park-passport/parks.csv')
       .then(response => response.text())
       .then(csvText => {
-        const results = Papa.parse(csvText, {
+        const results = Papa.parse<Park>(csvText, {
           header: true,
           skipEmptyLines: true
         });
@@ -38,7 +38,7 @@ export default function Home() {
       <Divider sx={{ height: 30, backgroundColor: '#99542C' }} />
       <Grid container size={12} sx={{ backgroundColor: '	#2D4B1E', textAlign: 'center', color: "white", alignItems: 'center', justifyContent: 'center' }}>
         <Grid size={6} sx={{ backgroudColor: 'white', borderRight: '1px white' }}>
-          {parks.map((park: Park | unknown) => (<Grid key={park.name} sx={{borderRight: '1px white'}}>
+          {parks.map((park: Park) => (<Grid key={park.name} sx={{borderRight: '1px white'}}>
             <Typography sx={{ fontSize: '20px' }}>{park.name} | {park.location}</Typography>
             <Typography>{park.numVisitors} Visitors</Typography>
             <Typography>Established: {park.dateCreated}</Typography>
