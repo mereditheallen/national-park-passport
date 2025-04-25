@@ -5,6 +5,7 @@ import styles from "./page.module.css";
 import { Button, Divider, Grid, Link, Typography } from "@mui/material";
 import { useEffect, useState } from "react";
 import Papa from 'papaparse';
+import { writeFile } from "fs";
 
 interface Park {
   area: string;
@@ -18,15 +19,10 @@ interface Park {
 export default function Home() {
   const [parks, setParks] = useState<Park[]>([])
   useEffect(() => {
-    fetch('national-park-passport/parks.csv')
-      .then(response => response.text())
-      .then(csvText => {
-        const results = Papa.parse<Park>(csvText, {
-          header: true,
-          skipEmptyLines: true
-        });
-        console.log(results)
-        setParks(results.data);
+    fetch('national-park-passport/national_parks.json')
+      .then(response => response.json())
+      .then(json => {
+        setParks(json);
       });
   }, []);
   console.log(parks)
