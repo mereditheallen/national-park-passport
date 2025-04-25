@@ -4,8 +4,6 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import { Button, Divider, Grid, Link, Typography } from "@mui/material";
 import { useEffect, useState } from "react";
-import Papa from 'papaparse';
-import { writeFile } from "fs";
 
 interface Park {
   area: string;
