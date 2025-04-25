@@ -17,7 +17,7 @@ interface Park {
 export default function Home() {
   const [parks, setParks] = useState<Park[]>([])
   useEffect(() => {
-    fetch('/national_parks.json')
+    fetch('national-park-passport/national_parks.json')
       .then(response => response.json())
       .then(json => {
         setParks(json);
@@ -51,7 +51,7 @@ export default function Home() {
         <main className={styles.main}>
           <Image
             className={styles.logo}
-            src="/next.svg"
+            src="national-park-passport/next.svg"
             alt="Next.js logo"
             width={180}
             height={38}
